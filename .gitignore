@@ -22,3 +22,9 @@ dependency-reduced-pom.xml
 
 # Other Files
 build/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
